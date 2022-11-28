@@ -6,7 +6,7 @@ module.exports = {
     output: {
         path: path.join(__dirname, "assets"),
         filename: "bundle.js",
-        publicPath: "/tfn_lab7z2/",
+        publicPath: "/7zad2/",
         library: 'webpackGhPages'
     },
     module: {
